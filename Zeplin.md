@@ -12,3 +12,12 @@ Adobe XD에서 디자인 한 UI화면 (메뉴 - 내보내기 - Zeplin) OR (Ctrl 
 ![공유 예시](https://i.pinimg.com/originals/0b/d0/19/0bd019c2de3cd7653b3929f2e789252a.png)   
 공유된 웹 페이지 예시. 시안을 보내고 체크할 때 편리하다
 
+4. Extensions : 원하는 코드를 추가하거나 띄어쓰기 규칙을 변경할 수 있다   
+![확장](https://i.pinimg.com/originals/f7/93/7a/f7937aa46fdb74ddd02d05f4ea310e14.png)   
+5. Members : 프로젝트를 공유할 멤버를 초대하고 권한을 변경할 수 있다   
+![멤버](https://i.pinimg.com/originals/2b/c1/31/2bc1312fe2eb6e3d9fbd1d0b62165890.png)   
+6. 검색 : (Alt+J)를 사용하면 해당 아트보드나 스타일로 바로 이동이 가능하다. 아트보드 개수가 많을 때 자주 사용하게되니 아트보드명이 중복되지 않게 구분할 필요가 있다
+
+7. 태그 : 아트보드 마우스 우클릭 -> Add Tag..를 하면 화면별로 내가 원하는 태그만 보이게 할 수 있다. 예를들어, '완료', '진행중'같은 구분이 가능하다.
+![태그](https://i.pinimg.com/originals/ad/0c/bd/ad0cbdbeb90a585014f1dbd31d9d01a1.png)   
+8. 섹션 구분 : 마우스 우클릭 -> New Section from Selection 또는 아트보드 사이 클릭. 아트보드가 많을 때 기능별로 구분하는 용도로 사용. 우측 삼각형을 눌러 원하는 섹션을 
